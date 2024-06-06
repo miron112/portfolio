@@ -1,0 +1,130 @@
+.borders {
+    height: 1400px;
+    width: 1080px;
+    border: 3px solid black;
+    border-radius: 5%;
+}
+
+.main {
+    margin-top: 56px;
+    margin-left: 100px;
+}
+
+.head {
+    width: 600px;
+    height: 267px;
+}
+
+.round-image {
+    width: 140px;
+    height: 140px;
+}
+
+.Ag-H4 {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Arial;
+}
+
+.left {
+    width: 650px;
+    height: 603px;
+    justify-content: space-between;
+}
+
+.h2 {
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Arial;
+    margin-top: 12pt;
+}
+
+.link {
+    text-decoration: underline;
+    display: block;
+    margin-top: 4px;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+.right {
+    margin-left: 100px;
+    width: 330px;
+    height: 440px;
+    justify-content: space-between;
+}
+
+.Label-S {
+font-size: 14px;
+font-weight: 300;
+font-family: Arial;
+letter-spacing: 5px;
+} 
+
+.second-box {
+    margin-top: 48px;
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0 !important;
+}
+
+li {
+    margin-top: 4px;
+}
+
+.otstup-top{
+    margin-top: 24px;
+}
+
+.otstup-bot{
+    margin-top: 4px
+    ;
+}
+
+li {
+    font-size: 18px;
+    font-weight: 300;
+    font-family: Arial;
+}
+
+.third-box{
+    margin-top: 48px;
+}
+
+.Label-M{
+    font-size: 16px;
+    font-weight: 200;
+    font-family: Arial;
+}
+
+.body {
+    display: flex;
+    margin-top: 56px;
+    width: 950px;
+    height: 603px;
+}
+
+.paragraph{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Arial;
+}
+
+p{
+    margin: 0; 
+}
+
+.Ag-H1 {
+    font-size: 48px;
+    font-weight: 700;
+    font-family: Arial;
+    margin-top: 23px;
+}
+
+.Ag-H2 {
+    font-size: 34px;
+    font-weight: 200;
+    font-family: Arial;
+}
